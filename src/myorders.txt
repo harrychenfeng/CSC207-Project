@@ -1,0 +1,90 @@
+Order S White
+Order SES Red
+Order SE Green
+Order S Green
+Ready Picker Alice ready
+Picker Alice scan 2
+Order SE Beige
+Picker Alice scan 2
+Picker Alice scan 21
+Order SE Black
+Order SEL Green
+Order S White
+Ready Picker Bob ready
+Picker Alice scan 22
+Picker Alice scan 25
+Picker Alice scan 26
+Picker Alice scan 27
+Picker Alice scan 28
+Marshalling Picker Alice to Marshalling
+Ready Sequencer Sue ready
+Ready Picker Alice ready
+Sequencer Sue visually inspected false
+Ready Sequencer Sue ready
+Picker Alice scan 1
+Picker Alice scan 2
+Picker Alice scan 21
+Picker Alice scan 22
+Picker Alice scan 25
+Picker Alice scan 26
+Picker Alice scan 27
+Picker Alice scan 28
+Marshalling Picker Alice to Marshalling
+Ready Picker Alice ready
+Sequencer Sue visually inspected true
+Sequencer Sue scan 2
+Sequencer Sue rescan 1
+Sequencer Sue rescan 2
+Sequencer Sue rescan 21
+Sequencer Sue rescan 22
+Sequencer Sue rescan 27
+Sequencer Sue rescan 28
+Sequencer Sue rescan 25
+Sequencer Sue rescan 26
+Ready Loader Bill ready
+Loader Bill scan 1
+Loader Bill scan 2
+Loader Bill scan 21
+Loader Bill scan 22
+Loader Bill scan 2
+Loader Bill rescan 1
+Loader Bill rescan 2
+Loader Bill rescan 21
+Loader Bill rescan 22
+Loader Bill rescan 27
+Loader Bill rescan 28
+Loader Bill rescan 25
+Loader Bill rescan 26
+Ready Replenisher Ruby ready
+Ready Replenisher Parker ready
+Picker Bob scan 1
+Picker Bob scan 2
+Picker Bob scan 11
+Replenisher Ruby replenish B 0 0 0
+Replenisher Parker replenish B 0 0 1
+Picker Bob scan 12
+Picker Bob scan 31
+Picker Bob scan 32
+Picker Bob scan 43
+Picker Bob scan 44
+Marshalling Picker Bob to Marshalling
+Ready Picker Bob ready
+Ready Sequencer Sue ready
+Sequencer Sue visually inspected true
+Sequencer Sue scan 11
+Sequencer Sue scan 12
+Sequencer Sue scan 43
+Sequencer Sue scan 44
+Sequencer Sue scan 31
+Sequencer Sue scan 32
+Sequencer Sue scan 1
+Sequencer Sue scan 2
+Ready Loader Leo ready
+Loader Leo scan 11
+Loader Leo scan 12
+Loader Leo scan 43
+Loader Leo scan 44
+Loader Leo scan 31
+Loader Leo scan 32
+Loader Leo scan 1
+Loader Leo scan 2
