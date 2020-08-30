@@ -1,5 +1,4 @@
-# CSC207-Project
-CSC207 Software Deisgn at University of Toronto
+# Warehouse simulation written in Java
 
 # Important notice
 - Please follow the event format when adding more events to myorders.txt.
